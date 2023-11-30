@@ -1,0 +1,107 @@
+body {
+  background: url('img/bg.jpg');
+}
+img {
+  background-attachment: fixed;
+  background-position: left;
+  border: 5px solid white;
+}
+div.column {
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
+h1:hover {
+  background: deepskyblue;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.bold {
+  font-weight: bold;
+}
+.through {
+  text-decoration-line: line-through
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+.overline {
+  text-decoration: overline;
+}
+.underline {
+  text-decoration: underline;
+}
+p {
+  margin: 0;
+}
+.fs-48 {
+  font-size: 48px;
+}
+.fs-48 {
+  font-size: 48px;
+}
+.fs-40 {
+  font-size: 40px;
+}
+.fs-32 {
+  font-size: 32px;
+}
+.fs-26 {
+  font-size: 26px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.italic {
+  font-style: italic;
+}
+.color-red {
+  color: red;
+}
+.background-red {
+  background: red;
+}
+.color-blue {
+  color: blue;
+}
+.background-blue {
+  background: blue;
+}
+.color-green {
+  color: green;
+}
+.background-green {
+  background: green;
+}
+.color-black {
+  color: black;
+}
+.background-black {
+  background: black;
+}
+.color-white {
+  color: white;
+}
+.background-white {
+  background: white;
+}
+
+
